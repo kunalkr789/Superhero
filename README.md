@@ -6,3 +6,4 @@
 2. Open index.html file in any browser
 
 # Hosted link:
+https://kunalkr789.github.io/Superhero/
